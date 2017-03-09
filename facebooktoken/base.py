@@ -1,5 +1,5 @@
 import requests
-from urlparse import parse_qsl, urlparse
+from urllib.parse import parse_qsl, urlparse
 import json
 
 
